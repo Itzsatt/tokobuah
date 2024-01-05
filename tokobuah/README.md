@@ -1,4 +1,4 @@
-# Toko Sayur 22
+# Toko Buah Segar
 
 
 
@@ -15,11 +15,3 @@ dan lain-lain.
 ##Hak akses
 - Admin
 - Customer
-
-User demo:
-- Admin
-username: mulyojr
-password: qwerty
-- Customer:
-username: agungtr
-password: qwerty
